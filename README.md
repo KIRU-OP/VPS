@@ -4,7 +4,7 @@
 # Ubuntu-on-Railway
 **Template Name:** Ubuntu 22.04
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/template/ubuntu-2204)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/ubuntu-2204?referralCode=asepsp&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## Description
 Want to try out Ubuntu or need a lightweight version of Linux available at all times? This project allows you to deploy a fully functional Ubuntu environment in the cloud.
