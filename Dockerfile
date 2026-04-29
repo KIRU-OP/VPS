@@ -19,4 +19,4 @@ RUN echo "cd /root/workspace" >> /root/.bashrc && \
 ENV PORT=8080
 EXPOSE $PORT
 
-CMD ["/bin/sh", "-c", "/bin/ttyd -p ${PORT} -c ${USERNAME:-admin}:${PASSWORD:-admin} /bin/bash"]
+CMD ["/bin/sh", "-c", "/bin/ttyd -p ${PORT} -c ${USERNAME:-god_hyper_op}:${PASSWORD:-NEO} /bin/bash"]
